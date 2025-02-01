@@ -26,7 +26,7 @@ def max_beauty_score(line) -> int:
     return max_sum
 
 
-if __name__ == "main":
+if __name__ == "__main__":
     T = int(integer_input_request("test cases quantity"))
 
     lines = []
